@@ -1,1 +1,1 @@
-This is the Github Repository for the Machine Learning Course created byy Chrsitian Häusser
+This is the Github Repository for the Machine Learning Course created byy Christian Häusser
